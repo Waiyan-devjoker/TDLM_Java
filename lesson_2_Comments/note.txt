@@ -1,0 +1,8 @@
+Comment
+
+- Single-line comments
+- Multi-line comments
+
+
+// For Python output by WYM 2022429
+System.out.println("Python");

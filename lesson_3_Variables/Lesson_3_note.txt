@@ -1,0 +1,12 @@
+- Java Variables
+1. Create variable identifier name
+2. Use assignment Operator
+3. Define Variable Value
+4. Add data type of variable
+5. Add statement end operator
+
+
+
+- Declare Many Variables
+
+- One Value to Multiple Variables
