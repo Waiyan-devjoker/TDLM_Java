@@ -6,11 +6,13 @@ public class Lesson_1 {
 
         int x = 20;
 
-        int c = 40;
+        // int x = 20;
 
-        int employee_id = 120;
-        int money = 300;
-        int liter = 20;
+        // int c = 40;
+
+        // int employee_id = 120;
+        // int money = 300;
+        // int liter = 20;
 
         // int public = 300;
 
