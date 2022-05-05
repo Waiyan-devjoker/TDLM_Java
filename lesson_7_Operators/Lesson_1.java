@@ -6,31 +6,43 @@ public class Lesson_1 {
 
         // Arithmetic Operators ( + , - , * , / , % , ++ , -- )
 
-        int y = 2 * 4;
-        int z = 10 / 2;
+        // int y = 2 * 4;
+        // int z = 10 / 2;
 
-        System.out.println(z);
+        // System.out.println(z);
 
-        int i = 2;
+        // int i = 2;
 
-        // i = i + 1;
+        // // i = i + 1;
+        // i++;
+        // // ++i
+
+        // System.out.println(i);
+
+        // i--;
+        // // --i
+
+        // System.out.println(i);
+
+        // // Assignment Operators
+
+        // int a = 10;
+
+        // // a = a + 5;
+        // a += 5;
+        // a -= 10;
+
+        int i = 1;
+
         i++;
-        // ++i
+        // System.out.println(i);
 
-        System.out.println(i);
+        int x = 1;
 
-        i--;
-        // --i
+        // System.out.println(x++);
+        // System.out.println(x);
 
-        System.out.println(i);
-
-        // Assignment Operators
-
-        int a = 10;
-
-        // a = a + 5;
-        a += 5;
-        a -= 10;
+        System.out.println(++x);
 
     }
 

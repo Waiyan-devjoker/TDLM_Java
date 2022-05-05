@@ -56,7 +56,6 @@ Ternary Operator
 condition ? exprIfTrue : exprIfFalse
 
 
-
 The Bitwise Operators
 
 
