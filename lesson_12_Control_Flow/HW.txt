@@ -1,0 +1,20 @@
+
+/*
+* HW - 1
+* 
+* email = mgmg@gmail.com / example@gmail.com
+* pass = mgmg123 / example123
+* 
+* output : Login Success
+* 
+*/
+
+
+/*
+* HW -2 
+* email = mgmg@gmail.com / example@gmail.com
+* age = 25 ->
+* 
+* output : T- Success / F- Fail
+* 
+*/
