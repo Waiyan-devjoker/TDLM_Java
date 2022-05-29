@@ -1,4 +1,4 @@
-package lesson_15;
+package lesson_15_String_Method;
 
 import javax.swing.JOptionPane;
 
@@ -8,7 +8,7 @@ public class Lesson_2 {
         
         String st = JOptionPane.showInputDialog("Email");
 
-        if(st.endsWith("@gmail.com")){
+        if(st.startsWith("12")){
             System.out.println("Is Gmail");
         }else{
             System.out.println("No Gmail");
@@ -16,6 +16,7 @@ public class Lesson_2 {
 
         //st.contains("@gmail.com")
         //st.endsWith("@gmail.com")
+        //st.startWith("AC")
 
     }
     
