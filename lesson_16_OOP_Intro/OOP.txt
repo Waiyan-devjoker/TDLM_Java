@@ -1,0 +1,46 @@
+OOP - Object-Oriented-Programming
+
+Class & Object
+
+-- Class
+
+public class Car{
+    String color = "White";
+}
+
+
+-- Class & Object
+
+public class Car{
+    String color = "White";
+
+    -- Object
+    public void Engine(){
+        // STM
+    }
+
+}
+
+
+Car
+
+Engine
+color
+Odometer
+etc..
+
+
+PB--
+
+Engine
+color
+Odometer
+etc..
+
+
+BMW--
+
+Engine
+color
+Odometer
+etc..
