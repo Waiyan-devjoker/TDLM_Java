@@ -1,0 +1,18 @@
+Register-> Register
+
+-email
+-password
+-phone
+-address
+-DOB
+-age
+
+
+Register(emial,pass)
+
+Register(email,pass,phone)
+
+Register(email,pass,phone,address)
+
+Register(email,pass,phone,address,DOB,age)
+

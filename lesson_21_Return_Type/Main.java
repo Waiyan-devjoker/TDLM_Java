@@ -10,7 +10,6 @@ public class Main {
         System.out.println(obj.age());
         System.out.println(obj.data("mgmg@gmail.com", "222", 5.43));
 
-
         // String rec = obj.message();
         // System.out.println(rec);
     }
