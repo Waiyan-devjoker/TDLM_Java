@@ -8,6 +8,7 @@ public class Main {
         obj.register();
         obj.register("admin@gmail.com","222");
         obj.register("admin@gmail.com","222","Yangon");
+
         
     }
     

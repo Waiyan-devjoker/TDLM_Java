@@ -14,6 +14,7 @@ public class Main {
         obj2.show();
         obj2.todo();
 
+        new Task().show();
     }
     
 }
