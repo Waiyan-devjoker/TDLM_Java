@@ -1,0 +1,21 @@
+Register - email , pass 
+
+input email
+input pass
+
+email create
+pass create
+----------------------------------
+Login - email , pass
+
+input email
+input pass
+
+email get
+pass get
+
+
+Main reg.setemail log.getemail -> 
+
+Register email/pass -> Login email/pass
+
