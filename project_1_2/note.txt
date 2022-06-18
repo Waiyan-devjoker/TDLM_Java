@@ -1,0 +1,43 @@
+MVC
+
+Model - email,phone,pass
+View - email_view,phone_view,pass_view
+Controller - save,select,delete,update CRUD(Create,Read,Update,Delete)
+
+
+Register
+
+email -input
+phone
+pass
+
+
+
+Model- Leave_type,emp_name,Dep,Report_to,HR
+View- View
+Controller- CRUD,Validate,DB connection
+
+Leave (6)
+
+Leave_type
+emp_name
+Dep
+Report To
+HR
+
+
+
+
+
+Model 1
+ - set -> admin@gmail.com
+
+
+Model 2
+ - get -> 
+
+
+Model admin
+
+admin - admin , 111
+admin - user, 999

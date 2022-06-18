@@ -1,0 +1,18 @@
+Num1
+Num2
+OPT
+
+Result
+
+
+M - Num1 ,Num2, OPT
+V - view JOption
+C - calation
+
+
+
+Main -> Controller - > view -> Model
+
+
+View - Ok
+Controller - 
