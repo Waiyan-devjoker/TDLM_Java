@@ -1,0 +1,25 @@
+Student
+name
+age
+
+
+boy
+
+- play()
+
+
+girl
+
+- play()
+-----------------------------
+
+Student
+
+Boy -> Student
+Girl -> Student
+
+-----------------------------
+
+Student
+Boy -> Student
+Girl -> Boy

@@ -1,0 +1,19 @@
+Main 
+---
+----
+----
+
+
+Abstract Register
+
+create
+validate - email
+validate - pass
+phone
+
+
+Abstract Login
+
+Read data
+validate - email
+validate - pass

@@ -1,0 +1,16 @@
+
+
+Student
+- name
+- age
+- address
+
+----------------
+
+boy -> Student
+- phone
+
+----------------
+
+girl -> Student
+- gmail

@@ -1,0 +1,15 @@
+Up Casting
+Down Casting
+
+
+Up Casting
+
+Student
+Boy -> Student
+Girl -> Boy
+
+
+use
+
+Student -call   Boy
+Student -call   Girl
