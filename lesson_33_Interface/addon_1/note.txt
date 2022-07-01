@@ -1,0 +1,29 @@
+Class -> (extends) -> Class
+Class -> (implements) -> Interface
+Interface -> (extends) -> Interface
+
+Main -> Info,About
+About -> Result
+
+-------------------------------------------------
+
+Register
+- email
+- pass
+
+intf - pos
+- Phone
+
+- Address
+
+
+Online Shopping (Login,Register)
+- Register
+
+
+POS (Login,Register)
+- Register - intfpos
+- email
+- pass
+
+Sales (Login,Register)

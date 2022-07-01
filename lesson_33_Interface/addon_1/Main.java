@@ -1,48 +1,41 @@
-package lesson_32_Abstract;
+package lesson_33_Interface.addon_1;
 
-public class Main extends Register{
+public class Main implements Info,About{
 
     public static void main(String[] args) {
         
     }
 
     @Override
-    public void useremail_validate() {
+    public void sms() {
         // TODO Auto-generated method stub
         
     }
 
     @Override
-    public void userpass_validate() {
+    public void login() {
         // TODO Auto-generated method stub
         
     }
 
     @Override
-    public void phone() {
+    public void result() {
         // TODO Auto-generated method stub
         
     }
 
     @Override
-    public void read_data() {
+    public void show() {
         // TODO Auto-generated method stub
         
     }
 
     @Override
-    public void valid_email() {
+    public void register() {
         // TODO Auto-generated method stub
         
     }
 
-    @Override
-    public void valid_pass() {
-        // TODO Auto-generated method stub
-        
-    }
-
-    
     
     
 }

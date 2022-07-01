@@ -17,3 +17,19 @@ Abstract Login
 Read data
 validate - email
 validate - pass
+
+
+Register -> About -> Login
+
+Regiser -> Login
+
+About
+
+About -> Reister
+
+About -> Regier -> Login
+
+
+Class -> (extends) -> Class
+Class -> (implements) -> Interface
+Interface -> (extends) -> Interface

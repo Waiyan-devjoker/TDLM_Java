@@ -13,3 +13,7 @@ use
 
 Student -call   Boy
 Student -call   Girl
+
+
+
+Girl -> Boy -> Student
