@@ -1,6 +1,5 @@
 package lesson_36_ToString;
 
-import javax.swing.JOptionPane;
 
 public class Main {
 
