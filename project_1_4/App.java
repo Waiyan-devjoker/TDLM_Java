@@ -11,8 +11,8 @@ public class App {
         File fl = new File(file_loaction);
         // String input = JOptionPane.showInputDialog(null, "Input");
         // new Fl_Write(fl, input);
-
         new FL_Read(fl);
+        
     }
     
 }

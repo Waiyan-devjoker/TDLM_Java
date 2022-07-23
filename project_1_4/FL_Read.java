@@ -14,20 +14,23 @@ public class FL_Read {
     FL_Read(File file){
         try {
             BufferedReader br = new BufferedReader(new FileReader(file));
-
             String valid = JOptionPane.showInputDialog(null, "Search");
-
+            boolean bo = false;
             while(br.ready()){
 
-                if(valid.equals(br.readLine())){
-                    System.out.println("Ok");
-                }else{
-                    System.out.println("Fail");
+                if(valid.toLowerCase().equals(br.readLine().toLowerCase())){
+                    bo = true;
+                    break;
                 }
 
             }
-
             br.close();
+
+            if(bo){
+                JOptionPane.showMessageDialog(null,"Ok");
+            }else{
+                JOptionPane.showMessageDialog(null,"Fail");
+            }
 
         } catch (FileNotFoundException e) {
             // TODO Auto-generated catch block
