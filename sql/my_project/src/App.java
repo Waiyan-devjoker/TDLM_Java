@@ -3,8 +3,9 @@ public class App {
         
 
         //new Register();
-        Controller cont = new Controller();
-        cont.data_login("admin@gmail.com", "1234");
+        //new Login();
+        //new Update();
+        new Delete();
 
     }
 }
